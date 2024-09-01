@@ -1,0 +1,14 @@
+{
+  "comeshop": [
+    {
+      "id": "dc33",
+      "name": "drippyKicks",
+      "description": "sneakers"
+    },
+    {
+      "id": "ad08",
+      "name": "soccer.com",
+      "description": "soccer cleats and apparel"
+    }
+  ]
+}
